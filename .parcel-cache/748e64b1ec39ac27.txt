@@ -1,4 +1,4 @@
-5892
+5893
 69C:\AsafPrivate\ZTM\simplefolio\node_modules\dotenv-expand\lib\main.js133515349981977008 0
 66C:\AsafPrivate\ZTM\simplefolio\node_modules\term-size\package.json133515349982902417 0
 53C:\AsafPrivate\ZTM\simplefolio\src\assets\favicon.png133492665242224321 0
@@ -17,10 +17,6 @@
 65C:\AsafPrivate\ZTM\simplefolio\node_modules\resolve-from\index.js133515349978154591 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\var\isFunction.js133515349994407721 0
 77C:\AsafPrivate\ZTM\simplefolio\node_modules\svgo\plugins\removeHiddenElems.js133515349993931383 0
-67C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\core\lib\public133515349999379122 1
-79C:\AsafPrivate\ZTM\simplefolio\node_modules\fs-extra\lib\ensure\symlink-type.js133515360121740899 0
-84C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\array-flat.js133515349990535443 0
-58C:\AsafPrivate\ZTM\simplefolio\node_modules\balanced-match133515360120856365 1
 87C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\vector-effect.js133515350010201416 0
 71C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\event\focusin.js133515349993353275 0
 43C:\AsafPrivate\ZTM\simplefolio\node_modules133515360125867362 1
@@ -34,10 +30,17 @@
 91C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133515349978417268 0
 83C:\AsafPrivate\ZTM\simplefolio\node_modules\gh-pages\node_modules\commander\typings133515360121377437 1
 62C:\AsafPrivate\ZTM\simplefolio\node_modules\array-uniq\license133515360120574299 0
-35C:\AsafPrivate\ZTM\simplefolio\dist133515361122929933 1
+35C:\AsafPrivate\ZTM\simplefolio\dist133515482283308126 1
 80C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\path2d.js133515350006859967 0
 73C:\AsafPrivate\ZTM\simplefolio\node_modules\svgo\plugins\removeViewBox.js133515349995089129 0
 68C:\AsafPrivate\ZTM\simplefolio\node_modules\abortcontroller-polyfill133515349986597397 1
+60C:\AsafPrivate\ZTM\simplefolio\node_modules\wrappy\wrappy.js133515360120767131 0
+76C:\AsafPrivate\ZTM\simplefolio\node_modules\css-what\lib\commonjs\types.d.ts133515349989396122 0
+58C:\AsafPrivate\ZTM\simplefolio\node_modules\braces\LICENSE133515349986045519 0
+74C:\AsafPrivate\ZTM\simplefolio\node_modules\async\internal\setImmediate.js133515360124720284 0
+86C:\AsafPrivate\ZTM\simplefolio\node_modules\popper.js\dist\esm\popper-utils.min.js.map133515349991303484 0
+43C:\AsafPrivate\ZTM\simplefolio\netlify.toml133515486865554974 0
+75C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\node\Raw.js133515349997796468 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\var\class2type.js133515349988224235 0
 74C:\AsafPrivate\ZTM\simplefolio\node_modules\yaml\browser\dist\parse-cst.js133515349988374885 0
 61C:\AsafPrivate\ZTM\simplefolio\node_modules\@msgpackr-extract133515360125872357 1
@@ -52,7 +55,7 @@
 82C:\AsafPrivate\ZTM\simplefolio\node_modules\vanilla-tilt\.idea\vanilla-tilt.js.iml133515349980028463 0
 65C:\AsafPrivate\ZTM\simplefolio\node_modules\node-gyp-build\bin.js133515349978182150 0
 70C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\dist\jquery.min.map133515349999184317 0
-43C:\AsafPrivate\ZTM\simplefolio\package.json133515360592031349 0
+43C:\AsafPrivate\ZTM\simplefolio\package.json133515486665687121 0
 85C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\modifiers\flip.js.flow133515350000025274 0
 50C:\AsafPrivate\ZTM\simplefolio\node_modules\@types133515349965546406 1
 41C:\AsafPrivate\ZTM\simplefolio\src\assets133515344904590165 1
@@ -339,6 +342,10 @@
 70C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\var\toString.js133515349998513448 0
 49C:\AsafPrivate\ZTM\simplefolio\node_modules\async133515360125339965 1
 90C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\font-size-adjust.js133515350003419941 0
+67C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\core\lib\public133515349999379122 1
+79C:\AsafPrivate\ZTM\simplefolio\node_modules\fs-extra\lib\ensure\symlink-type.js133515360121740899 0
+84C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\array-flat.js133515349990535443 0
+58C:\AsafPrivate\ZTM\simplefolio\node_modules\balanced-match133515360120856365 1
 66C:\AsafPrivate\ZTM\simplefolio\node_modules\nth-check\lib\parse.js133515349982544008 0
 96C:\AsafPrivate\ZTM\simplefolio\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133515349986301045 0
 65C:\AsafPrivate\ZTM\simplefolio\node_modules\async\internal\map.js133515360123618624 0
@@ -633,11 +640,6 @@
 73C:\AsafPrivate\ZTM\simplefolio\node_modules\json-parse-even-better-errors133515349980327084 1
 67C:\AsafPrivate\ZTM\simplefolio\node_modules\to-regex-range\index.js133515349985255120 0
 75C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\regions\KP.js133515350005185277 0
-71C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\event\trigger.js133515349998643007 0
-86C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133515349983178911 0
-91C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js133515349979077645 0
-66C:\AsafPrivate\ZTM\simplefolio\node_modules\import-fresh\readme.md133515349979464394 0
-53C:\AsafPrivate\ZTM\simplefolio\node_modules\svgo\dist133515349995754551 1
 89C:\AsafPrivate\ZTM\simplefolio\node_modules\posthtml\node_modules\posthtml-parser\license133515349977756040 0
 60C:\AsafPrivate\ZTM\simplefolio\node_modules\lmdb\src\dbi.cpp133515349996484995 0
 73C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\watcher\src\Signal.hh133515349989841803 0
@@ -1118,11 +1120,6 @@
 79C:\AsafPrivate\ZTM\simplefolio\node_modules\bootstrap\js\src\dom\manipulator.js133515349996560140 0
 73C:\AsafPrivate\ZTM\simplefolio\node_modules\type-fest\source\mutable.d.ts133515349988901490 0
 63C:\AsafPrivate\ZTM\simplefolio\node_modules\wrappy\package.json133515360120198240 0
-60C:\AsafPrivate\ZTM\simplefolio\node_modules\wrappy\wrappy.js133515360120767131 0
-76C:\AsafPrivate\ZTM\simplefolio\node_modules\css-what\lib\commonjs\types.d.ts133515349989396122 0
-58C:\AsafPrivate\ZTM\simplefolio\node_modules\braces\LICENSE133515349986045519 0
-74C:\AsafPrivate\ZTM\simplefolio\node_modules\async\internal\setImmediate.js133515360124720284 0
-86C:\AsafPrivate\ZTM\simplefolio\node_modules\popper.js\dist\esm\popper-utils.min.js.map133515349991303484 0
 64C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\offset.js133515349996352762 0
 74C:\AsafPrivate\ZTM\simplefolio\node_modules\lmdb\dependencies\lmdb-data-v1133515349977609565 1
 70C:\AsafPrivate\ZTM\simplefolio\node_modules\queue-microtask\index.d.ts133515349986414430 0
@@ -1513,6 +1510,11 @@
 65C:\AsafPrivate\ZTM\simplefolio\node_modules\detect-libc\README.md133515349985710491 0
 98C:\AsafPrivate\ZTM\simplefolio\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133515349986597397 0
 52C:\AsafPrivate\ZTM\simplefolio\node_modules\svgo\bin133515349978154591 1
+71C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\event\trigger.js133515349998643007 0
+86C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133515349983178911 0
+91C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js133515349979077645 0
+66C:\AsafPrivate\ZTM\simplefolio\node_modules\import-fresh\readme.md133515349979464394 0
+53C:\AsafPrivate\ZTM\simplefolio\node_modules\svgo\dist133515349995754551 1
 60C:\AsafPrivate\ZTM\simplefolio\node_modules\.bin\detect-libc133515350011671474 0
 61C:\AsafPrivate\ZTM\simplefolio\node_modules\is-number\LICENSE133515349985695029 0
 75C:\AsafPrivate\ZTM\simplefolio\node_modules\cosmiconfig\dist\types.d.ts.map133515349990088050 0
@@ -1738,7 +1740,7 @@
 68C:\AsafPrivate\ZTM\simplefolio\node_modules\source-map\source-map.js133515349979855381 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\source-map\lib\base64-vlq.js133515349982212410 0
 89C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\iframe-seamless.js133515350004176489 0
-46C:\AsafPrivate\ZTM\simplefolio\dist\index.html133515361122810182 0
+46C:\AsafPrivate\ZTM\simplefolio\dist\index.html133515482283278212 0
 71C:\AsafPrivate\ZTM\simplefolio\node_modules\prettier\parser-markdown.js133515349995683072 0
 70C:\AsafPrivate\ZTM\simplefolio\node_modules\jquery\src\core\support.js133515349998191619 0
 77C:\AsafPrivate\ZTM\simplefolio\node_modules\mdn-data\css\at-rules.schema.json133515349982721474 0
@@ -1935,10 +1937,10 @@
 75C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\regions\NC.js133515350006307071 0
 61C:\AsafPrivate\ZTM\simplefolio\node_modules\parcel\lib\bin.js133515349978381529 0
 67C:\AsafPrivate\ZTM\simplefolio\node_modules\prettier\third-party.js133515349999189480 0
-83C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\css-masks.js133515350000751472 0
-73C:\AsafPrivate\ZTM\simplefolio\node_modules\prettier\esm\parser-babel.mjs133515349999593226 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\nth-check\lib\esm\index.d.ts133515349988946004 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\domutils\lib\manipulation.js133515349982076019 0
+83C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\features\css-masks.js133515350000751472 0
+73C:\AsafPrivate\ZTM\simplefolio\node_modules\prettier\esm\parser-babel.mjs133515349999593226 0
 69C:\AsafPrivate\ZTM\simplefolio\node_modules\email-addresses\README.md133515360121214114 0
 78C:\AsafPrivate\ZTM\simplefolio\node_modules\balanced-match\.github\FUNDING.yml133515360120974683 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\popper.js\dist\umd\popper.js133515349994007013 0
@@ -2280,7 +2282,6 @@
 86C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\transformer-babel\src\constants.js133515349985305227 0
 75C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\regions\FJ.js133515350003231124 0
 78C:\AsafPrivate\ZTM\simplefolio\node_modules\entities\lib\decode_codepoint.d.ts133515349988664350 0
-92C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\utils\mergePaddingObject.d.ts133515350001293256 0
 74C:\AsafPrivate\ZTM\simplefolio\node_modules\nth-check\lib\esm\parse.js.map133515349987880967 0
 65C:\AsafPrivate\ZTM\simplefolio\node_modules\node-releases\LICENSE133515349977588380 0
 72C:\AsafPrivate\ZTM\simplefolio\node_modules\node-releases\data\processed133515349978381529 1
@@ -3550,7 +3551,6 @@
 82C:\AsafPrivate\ZTM\simplefolio\node_modules\@swc\helpers\lib\_iterable_to_array.js133515349994347784 0
 77C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\node\Ratio.js133515349997719079 0
 77C:\AsafPrivate\ZTM\simplefolio\node_modules\@swc\helpers\src\_ts_decorate.mjs133515350000094829 0
-75C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\node\Raw.js133515349997796468 0
 80C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\node\Selector.js133515349997921688 0
 75C:\AsafPrivate\ZTM\simplefolio\node_modules\caniuse-lite\data\regions\SZ.js133515350008905986 0
 84C:\AsafPrivate\ZTM\simplefolio\node_modules\css-tree\lib\syntax\node\SelectorList.js133515349998029799 0
@@ -4801,6 +4801,7 @@
 95C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133515349978474268 0
 84C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\utils\getVariation.js133515350001194587 0
 81C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\utils\math.js.flow133515350001237012 0
+92C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\utils\mergePaddingObject.d.ts133515350001293256 0
 86C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\utils\orderModifiers.js133515350001347764 0
 87C:\AsafPrivate\ZTM\simplefolio\node_modules\@parcel\compressor-raw\src\RawCompressor.js133515349979149186 0
 91C:\AsafPrivate\ZTM\simplefolio\node_modules\@popperjs\core\lib\utils\orderModifiers.js.flow133515350001357742 0

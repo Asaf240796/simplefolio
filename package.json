@@ -2,15 +2,12 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "homepage": "https://Asaf240796.github.io/Update-Portfolio",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
+    "build": "npm run build-script",
     "gh-pages-build": "parcel build --public-url .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build-script": "echo 'Running build script' && parcel build --public-url ."
   },
   "repository": {
     "type": "git",
